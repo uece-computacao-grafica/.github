@@ -28,7 +28,7 @@ Ao longo da disciplina, os alunos desenvolvem projetos aplicando conceitos como:
 
 # Projetos — 2025.3
 
-### [Trabalho 1 — 2D](.)
+### [Trabalho 1 — 2D](https://github.com/uece-computacao-grafica/Trabalho-1-2D)
 ### [Trabalho 2 — 3D](.)
 
 ---
